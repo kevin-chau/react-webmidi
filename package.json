@@ -1,0 +1,19 @@
+{
+  "name": "react-webmidi",
+  "version": "0.0.1",
+  "description": "A React component for using the Web MIDI API via WebMidi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchau321/react-webmidi.git"
+  },
+  "author": "kevinchau321",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinchau321/react-webmidi/issues"
+  },
+  "homepage": "https://github.com/kevinchau321/react-webmidi#readme"
+}
